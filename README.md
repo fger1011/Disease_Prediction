@@ -13,7 +13,7 @@
 The Disease Detection Basing from Symptoms Selection project is a machine learning-based system designed to predict possible diseases based on user-selected symptoms. The goal is to assist users in identifying potential health conditions by leveraging machine learning models trained on medical datasets.
 
 ### Key Features
-✅ Symptom-Based Diagnosis – Users input symptoms, and the system predicts potential diseases.
+✅ Symptom-Based Diagnosis – Users input symptoms, and the system predicts potential diseases.__
 ✅ Machine Learning Model – Utilizes classification algorithms like Decision Tree, Naïve Bayes, Random Forest, and Gradient Boosting.
 ✅ Feature Correlation Analysis – Evaluates the relationship between symptoms to improve prediction accuracy.
 ✅ Model Performance Evaluation – Includes accuracy scoring, confusion matrices, and classification reports.
