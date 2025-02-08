@@ -14,29 +14,29 @@ The Disease Detection Basing from Symptoms Selection project is a machine learni
 
 ### Key Features
 ✅ Symptom-Based Diagnosis – Users input symptoms, and the system predicts potential diseases.<br />
-✅ Machine Learning Model – Utilizes classification algorithms like Decision Tree, Naïve Bayes, Random Forest, and Gradient Boosting.
-✅ Feature Correlation Analysis – Evaluates the relationship between symptoms to improve prediction accuracy.
-✅ Model Performance Evaluation – Includes accuracy scoring, confusion matrices, and classification reports.
-✅ User-Friendly Interface – (If applicable) Can be integrated with a UI for easy symptom selection.
+✅ Machine Learning Model – Utilizes classification algorithms like Decision Tree, Naïve Bayes, Random Forest, and Gradient Boosting.<br />
+✅ Feature Correlation Analysis – Evaluates the relationship between symptoms to improve prediction accuracy.<br />
+✅ Model Performance Evaluation – Includes accuracy scoring, confusion matrices, and classification reports.<br />
+✅ User-Friendly Interface – (If applicable) Can be integrated with a UI for easy symptom selection.<br />
 
 ### Technologies Used
-🟢 Python – Core programming language for data processing and model training.
-🟢 Pandas & NumPy – Data handling and manipulation.
-🟢 Scikit-Learn – Machine learning model training and evaluation.
-🟢 Seaborn & Matplotlib – Data visualization for feature correlation.
-🟢 Streamlit/PyCharm – (If applicable) Used for UI development and debugging.
+🟢 Python – Core programming language for data processing and model training.<br />
+🟢 Pandas & NumPy – Data handling and manipulation.<br />
+🟢 Scikit-Learn – Machine learning model training and evaluation.<br />
+🟢 Seaborn & Matplotlib – Data visualization for feature correlation.<br />
+🟢 Streamlit/PyCharm – (If applicable) Used for UI development and debugging.<br />
 
 ### How It Works
-1️⃣ Data Collection & Preprocessing – Medical datasets are loaded, cleaned, and prepared for training.
-2️⃣ Model Training – Machine learning classifiers are trained using labeled symptom-disease datasets.
-3️⃣ Feature Analysis – Correlations between symptoms and diseases are examined.
-4️⃣ Prediction System – Users select symptoms, and the trained model predicts the most probable disease.
-5️⃣ Evaluation & Optimization – The system's accuracy is measured and fine-tuned.
+1️⃣ Data Collection & Preprocessing – Medical datasets are loaded, cleaned, and prepared for training.<br />
+2️⃣ Model Training – Machine learning classifiers are trained using labeled symptom-disease datasets.<br />
+3️⃣ Feature Analysis – Correlations between symptoms and diseases are examined.<br />
+4️⃣ Prediction System – Users select symptoms, and the trained model predicts the most probable disease.<br />
+5️⃣ Evaluation & Optimization – The system's accuracy is measured and fine-tuned.<br />
 
 ### Potential Applications
-📌 Healthcare Assistance – Helps users identify potential diseases before consulting a doctor.
-📌 Medical Research – Analyzes symptom patterns for disease prediction improvements.
-📌 AI-Powered Diagnosis Tools – Can be integrated into telemedicine or health advisory apps.
+📌 Healthcare Assistance – Helps users identify potential diseases before consulting a doctor.<br />
+📌 Medical Research – Analyzes symptom patterns for disease prediction improvements.<br />
+📌 AI-Powered Diagnosis Tools – Can be integrated into telemedicine or health advisory apps.<br />
 
 ## Instructions
 
