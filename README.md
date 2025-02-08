@@ -38,7 +38,16 @@ The Disease Detection Basing from Symptoms Selection project is a machine learni
 📌 Medical Research – Analyzes symptom patterns for disease prediction improvements.<br />
 📌 AI-Powered Diagnosis Tools – Can be integrated into telemedicine or health advisory apps.<br />
 
-## Instructions
+## DEMO INSTRUCTIONS
+```terminal
+streamlit run app.py
+```
+Use the streamlit command line to run the demo in your website. Click the ```terminal Local URL: http://localhost:8501 ```
+
+
+## Sample Output
+![image](https://github.com/user-attachments/assets/3f48ad7f-89d7-4768-a83a-90dcc70c88ff)
+
 
 
 
