@@ -42,7 +42,7 @@ The Disease Detection Basing from Symptoms Selection project is a machine learni
 ```terminal
 streamlit run app.py
 ```
-Use the streamlit command line to run the demo in your website. Click the ```terminal Local URL: http://localhost:8501 ```
+Use the streamlit command line to run the demo in your website. Click the ``` Local URL: http://localhost:8501 ```
 
 
 ## Sample Output
